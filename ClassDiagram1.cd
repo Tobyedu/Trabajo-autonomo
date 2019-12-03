@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProGrupalSystemVentaComiRapida.Cliente">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAEACAAgAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProGrupalSystemVentaComiRapida.StockAlimentos">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockALimentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProGrupalSystemVentaComiRapida.Alimentos">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAgAAAAAAgAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Alimentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProGrupalSystemVentaComiRapida.StockCliente">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProGrupalSystemVentaComiRapida.Venta">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
